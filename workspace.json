@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "147205637dd1b40e",
+        "id": "f8d6e13838edbaad",
         "type": "tabs",
         "children": [
           {
-            "id": "d9c61aa29f8183b5",
+            "id": "e132671bec50e804",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java项目场景解答/00-项目场景问题.md",
+                "file": "项目常见问题解答/01-代码改成多线程容易出现的问题.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "2d30ea34bbb772da",
+            "id": "a4c3cd1c1baddffa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java项目场景解答/01-提示可用性三部曲.md",
+                "file": "项目常见问题解答/03-Java基础开发常见错误案例.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java项目场景解答/01-提示可用性三部曲.md",
+                "file": "项目常见问题解答/03-Java基础开发常见错误案例.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java项目场景解答/01-提示可用性三部曲.md",
+                "file": "项目常见问题解答/03-Java基础开发常见错误案例.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java项目场景解答/01-提示可用性三部曲.md"
+                "file": "项目常见问题解答/03-Java基础开发常见错误案例.md"
               }
             }
           },
@@ -165,9 +165,17 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "7d17ab5255cf2fa8",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -187,23 +195,46 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "ad180c10fb4bfcb2",
+  "active": "a4c3cd1c1baddffa",
   "lastOpenFiles": [
+    "项目常见问题解答/01-代码改成多线程容易出现的问题.md",
+    "项目常见问题解答/03-Java基础开发常见错误案例.md",
+    "Java项目场景解答/08-高并发之解决方案.md",
+    "Java项目场景解答/07-海量数据之分库分表.md",
+    "Java项目场景解答/06-研发提效之代码重构.md",
+    "pdf/01-高可用之提升可用性.pdf",
+    "项目常见问题解答/02-消除if...else判断条件的几种方案.md",
     "Java项目场景解答/00-项目场景问题.md",
-    "Java项目场景解答/01-提示可用性三部曲.md",
-    "images/构建高可用系统.png",
-    "images/项目场景面试题.png",
+    "Java项目场景解答/01-高可用之提升可用性.md",
+    "Java项目场景解答/05-高性能之中间件.md",
+    "Java项目场景解答/04-高性能之性能优化.md",
+    "Java项目场景解答/03-高性能之SQL优化.md",
+    "Java项目场景解答/02-高可用之服务挂了PlanB.md",
+    "pdf/02-高可用之服务挂了PlanB.pdf",
+    "pdf/02-消除if...else判断条件的几种方案.pdf",
+    "images/代码重构-模版方法01.png",
+    "images/高并发-解决方案9.png",
+    "images/高并发-解决方案8.png",
+    "images/高并发-解决方案7.png",
+    "images/高并发-解决方案6.png",
+    "images/高并发-解决方案5.png",
+    "images/高并发-解决方案4.png",
+    "images/高并发-解决方案3.png",
+    "images/高并发-解决方案2.png",
+    "images/高并发-解决方案1.png",
+    "pdf/06-研发提效之代码重构.pdf",
+    "pdf/04-高性能之性能优化.pdf",
+    "pdf/03-高性能之SQL优化.pdf",
+    "pdf",
+    "项目常见问题解答",
     "构建高可用系统.png.md",
-    "构建高可用系统.png",
     "Java项目场景解答",
     "Calendar/2023-10-29.md",
     "helloworld.md",
     "使用ChatGPT生成一份Redis常问问题及答案的面试参考指南.md",
     "使用ChatGPT生成一份Redis常问问题及答案的面试参考指南.pdf",
-    "Calendar",
     "使用ChatGPT生成一份MySQL的面试参考指南.md",
     "Excalidraw/helloworld.excalidraw.md",
-    "Excalidraw/Drawing 2023-10-29 11.41.03.excalidraw.md",
-    "Excalidraw"
+    "Excalidraw/Drawing 2023-10-29 11.41.03.excalidraw.md"
   ]
 }

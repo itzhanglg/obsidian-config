@@ -11,5 +11,7 @@
   "obsidian-text-format",
   "better-export-pdf",
   "copilot",
-  "obsidian-importer"
+  "obsidian-importer",
+  "copy-document-as-html",
+  "obsidian-image-toolkit"
 ]
